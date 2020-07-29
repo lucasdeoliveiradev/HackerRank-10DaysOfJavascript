@@ -6,3 +6,5 @@
 - Day 0: Hello World
 - Day 0: Data Types
 - Day 1: Arithmetic Operators
+- Day 1: Functions
+- Day 1: Let and Const
